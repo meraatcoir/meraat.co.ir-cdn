@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>موسسه آموزشی و پژوهشی مرآت اندیشه&#187; ایمان</title>
+	<atom:link href="http://www.meraat.co.ir/author/iman/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.meraat.co.ir</link>
+	<description>موسسه آموزشی و پژوهشی مرآت اندیشه، سیستم آموزش دانشگاهی، سیستم دوره های آزاد، سیستم آموزشگاهی، سیستم آموزش ضمن خدمت، آموزش الکترونیکی و کلاس افزار</description>
+	<lastBuildDate>Tue, 17 Apr 2012 07:24:11 +0000</lastBuildDate>
+	<language>fa</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.0.3</generator>
+		<item>
+		<title>سیستم‌های مدیریت آموزش سینا؛ تنها سیستم‌های مدیریت آموزش تماما مبتنی بر متن‌باز (Open Source)</title>
+		<link>http://www.meraat.co.ir/latest-news/%d8%aa%d9%86%d9%87%d8%a7-%d8%b3%db%8c%d8%b3%d8%aa%d9%85%e2%80%8c%d9%87%d8%a7%db%8c-%d9%85%d8%af%db%8c%d8%b1%db%8c%d8%aa-%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%aa%d9%85%d8%a7%d9%85%d8%a7-%d9%85%d8%a8%d8%aa</link>
+		<comments>http://www.meraat.co.ir/latest-news/%d8%aa%d9%86%d9%87%d8%a7-%d8%b3%db%8c%d8%b3%d8%aa%d9%85%e2%80%8c%d9%87%d8%a7%db%8c-%d9%85%d8%af%db%8c%d8%b1%db%8c%d8%aa-%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%aa%d9%85%d8%a7%d9%85%d8%a7-%d9%85%d8%a8%d8%aa#comments</comments>
+		<pubDate>Thu, 05 Apr 2012 16:17:42 +0000</pubDate>
+		<dc:creator>ایمان</dc:creator>
+				<category><![CDATA[آخرین اخبار]]></category>
+
+		<guid isPermaLink="false">http://www.meraat.co.ir/?p=1186</guid>
+		<description><![CDATA[همان‌طور که اطلاع دارید، وزارت علوم طی بخش‌نامه‌ای به شماره‌ی ۳/۲۰۹۶۴۰ مورخه‌ی ۱۴ دی‌ماه سال ۱۳۹۰، کلیه‌ی دانشگاه‌ها و موسسات آموزش عالی و پژوهشی تابعه‌ی وزارت علوم، تحقیقات و فناوری (اعم از دولتی و غیردولتی) را مکلف به موارد زیر کرده است : میزبانی کلیه‌ی سیستم‌ها و وب‌گاه‌های خود را به داخل کشور منتقل نمایند ...]]></description>
+			<content:encoded><![CDATA[<p>همان‌طور که اطلاع دارید، وزارت علوم طی بخش‌نامه‌ای به شماره‌ی ۳/۲۰۹۶۴۰ مورخه‌ی ۱۴ دی‌ماه سال ۱۳۹۰، کلیه‌ی دانشگاه‌ها و موسسات آموزش عالی و پژوهشی تابعه‌ی وزارت علوم، تحقیقات و فناوری (اعم از دولتی و غیردولتی) را مکلف به موارد زیر کرده است :</p>
+<ul>
+<li>میزبانی کلیه‌ی سیستم‌ها و وب‌گاه‌های خود را به داخل کشور منتقل نمایند ( مهلت اجرا:۱۳۹۱/۰۲/۳۰)</li>
+<li>دامنه‌های خود را با پسوند .ac.ir یا .org.ir (بسته به موضوع فعالیت) ثبت نمایند.(مهلت اجرا:۱۳۹۱/۰۲/۳۰)</li>
+<li>استفاده از نرم‌افزارهای کپی غیرمجاز و یا ثبت نشده در مرکز فناوری‌های دیجیتال وزارت ارشاد و فرهنگ اسلامی را متوقف نمایند.(مهلت اجرا:۱۳۹۱/۰۲/۳۰)</li>
+<li>اطلاعات تماس خود را در وب‌گاه msrt.gov.ir ثبت نمایند و نماینده‌ی خود را جهت پیگیری‌های آتی معرفی کنند. (مهلت اجرا:۱۳۹۰/۱۲/۱۵)</li>
+<li>نسبت به جایگزینی سیستم عامل کارگزارهای خود، با سیستم عامل متن باز <strong>لینوکس</strong> اقدام نمایند.(مهلت اجرا:۱۳۹۱/۰۶/۳۱)</li>
+<li>کلیه‌ی نرم‌افزارهای مبتنی زیرساخت‌های انحصاری یا غیرمتن‌باز و یا تحت تحریم، با نرم‌افزارهای کاملا مبتنی بر فناوری‌های متن‌باز جایگزین گردند.(مهلت اجرا:۱۳۹۱/۰۶/۳۱)</li>
+</ul>
+<p>با توجه به روشی که از ابتدا در مرآت اندیشه، در تولید نرم‌افزار و سیستم‌های مدیریت آموزش در پیش گرفته شده، کلیه‌ی سیستم‌های تولیدی در این شرکت، اعم از سیستم مدیریت آموزش دانشگاهی، کوتاه مدت، دوره‌های آزاد، سازمانی و آموزش الکترونیکی، مبتنی بر تکنولوژی‌های متن‌باز، سازگار با سیستم‌عامل لینوکس و کاملا عاری  از تکنولوژی‌های انحصاری یا تحت تحریم می‌باشد. به این ترتیب مشتریان محترم این شرکت و همکاران نگرانیی از بابت بخشنامه‌ی فوق نخواهند داشت.</p>
+<p>همچنین اعلام می‌گردد که سیستم‌های مدیریت آموزش سینا، <strong>تنها</strong> سیستم مدیریت آموزش موجود در کشور هستند که <strong>تمامی شرایط گفته شده</strong> را دارا می‌باشند و ۱۰۰% سازگاز با نیازهای کشور، و خواسته‌های وزارت علوم، تحقیقات و قناوری می‌باشد.</p>
+<p>ارجاعات :</p>
+<ul>
+<li><a href="http://www.meraat.co.ir/products/education/compatibility" target="_self">فناوری‌های سازگار</a></li>
+<li><a href="http://www.meraat.co.ir/products/education/technologies" target="_self">فناوری‌های به‌کاررفته</a></li>
+</ul>
+
+<a href='http://www.meraat.co.ir/latest-news/%d8%aa%d9%86%d9%87%d8%a7-%d8%b3%db%8c%d8%b3%d8%aa%d9%85%e2%80%8c%d9%87%d8%a7%db%8c-%d9%85%d8%af%db%8c%d8%b1%db%8c%d8%aa-%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%aa%d9%85%d8%a7%d9%85%d8%a7-%d9%85%d8%a8%d8%aa/attachment/001' title='بخش‌نامه‌ی وزارت علوم در ارتباط با سیستم‌های متن باز صفحه‌ی 1'><img width="150" height="150" src="/wp-content/uploads/001-150x150.jpg" class="attachment-thumbnail" alt="001 150x150 سیستم‌های مدیریت آموزش سینا؛ تنها سیستم‌های مدیریت آموزش تماما مبتنی بر متن‌باز (Open Source)" title="بخش‌نامه‌ی وزارت علوم در ارتباط با سیستم‌های متن باز صفحه‌ی 1" /></a>
+<a href='http://www.meraat.co.ir/latest-news/%d8%aa%d9%86%d9%87%d8%a7-%d8%b3%db%8c%d8%b3%d8%aa%d9%85%e2%80%8c%d9%87%d8%a7%db%8c-%d9%85%d8%af%db%8c%d8%b1%db%8c%d8%aa-%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%aa%d9%85%d8%a7%d9%85%d8%a7-%d9%85%d8%a8%d8%aa/attachment/002' title='بخش‌نامه‌ی وزارت علوم در ارتباط با سیستم‌های متن باز صفحه‌ی 2'><img width="150" height="150" src="/wp-content/uploads/002-150x150.jpg" class="attachment-thumbnail" alt="002 150x150 سیستم‌های مدیریت آموزش سینا؛ تنها سیستم‌های مدیریت آموزش تماما مبتنی بر متن‌باز (Open Source)" title="بخش‌نامه‌ی وزارت علوم در ارتباط با سیستم‌های متن باز صفحه‌ی 2" /></a>
+
+<!-- PHP 5.x -->]]></content:encoded>
+			<wfw:commentRss>http://www.meraat.co.ir/latest-news/%d8%aa%d9%86%d9%87%d8%a7-%d8%b3%db%8c%d8%b3%d8%aa%d9%85%e2%80%8c%d9%87%d8%a7%db%8c-%d9%85%d8%af%db%8c%d8%b1%db%8c%d8%aa-%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%aa%d9%85%d8%a7%d9%85%d8%a7-%d9%85%d8%a8%d8%aa/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>توضیحاتی در ارتباط با سیستم آموزش پودمانی، ویژه علمی-کاربردی</title>
+		<link>http://www.meraat.co.ir/latest-news/%d8%aa%d9%88%d8%b6%db%8c%d8%ad%d8%a7%d8%aa%db%8c-%d8%af%d8%b1-%d8%a7%d8%b1%d8%aa%d8%a8%d8%a7%d8%b7-%d8%a8%d8%a7-%d8%b3%db%8c%d8%b3%d8%aa%d9%85-%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%be%d9%88%d8%af%d9%85</link>
+		<comments>http://www.meraat.co.ir/latest-news/%d8%aa%d9%88%d8%b6%db%8c%d8%ad%d8%a7%d8%aa%db%8c-%d8%af%d8%b1-%d8%a7%d8%b1%d8%aa%d8%a8%d8%a7%d8%b7-%d8%a8%d8%a7-%d8%b3%db%8c%d8%b3%d8%aa%d9%85-%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%be%d9%88%d8%af%d9%85#comments</comments>
+		<pubDate>Mon, 04 Apr 2011 07:10:23 +0000</pubDate>
+		<dc:creator>ایمان</dc:creator>
+				<category><![CDATA[آخرین اخبار]]></category>
+
+		<guid isPermaLink="false">http://www.meraat.co.ir/?p=1142</guid>
+		<description><![CDATA[در پی ارسال  نامه با موضوع معرفی سیستم آموزش پودمانی سینا ویژه مراکز علمی-کاربردی ، تماس‌های مکرری از سمت معاونین محترم آموزش و کارشناسان محترم فناوری اطلاعات گرفته شد، که جهت توضیح خدمت همه‌ی عزیزان، موارد زیر ارائه می‌گردد: ۱-     انتقال اتوماتیک داده‌ها: داده‌های سیستم قبلی(نماد پژوهش‌افزار) به صورت اتوماتیک به سیستم مدیریت جامع آموزش ...]]></description>
+			<content:encoded><![CDATA[<p>در پی ارسال  نامه با موضوع معرفی سیستم آموزش پودمانی سینا ویژه مراکز علمی-کاربردی ، تماس‌های مکرری از سمت معاونین محترم آموزش و کارشناسان محترم فناوری اطلاعات گرفته شد، که جهت توضیح خدمت همه‌ی عزیزان، موارد زیر ارائه می‌گردد:</p>
+<p>۱-     انتقال اتوماتیک داده‌ها: داده‌های سیستم قبلی(نماد پژوهش‌افزار) به صورت اتوماتیک به سیستم مدیریت جامع آموزش سینا وارد و داده‌های خراب و نامعتبر نیز به صورت خروجی اکسل گزارش داده میشود.</p>
+<p>۲-     کاملا تحت وب: برخلاف سیستم موجود در واحدهای دانشگاه علمی کاربردی، این سیستم کاملا تحت وب است؛ هیچ‌گونه نرم‌افزاری سمت کاربر نصب نمی‌شود و سیستم، با یک مرورگر وب قابل دسترسی می‌باشد.</p>
+<p>۳-     استفاده مجدد سرور سخت افزاری: برای راه‌اندازی سینا، می‌توان از سرور موجود سیستم آموزش واحدها استفاده نمود و نیازی به خرید سرور جدید نیست.</p>
+<p>۴-     بدون محدودیت کاربر: تمام دانشجویان، کارکنان و اساتید می‌توانند از سیستم سینا استفاده نمایند و وجهی اضافی بابت کم یا زیاد شدن کارمند دریافت نمی‌گردد.</p>
+<p>۵-     مقاطع تحصیلی: این سیستم، تمام مقاطع تحصیلی شامل کاردانی، کارشناسی ناپیوسته، کارشناسی و کارشناسی ارشد را پشتیبانی می‌نماید.</p>
+<p>۶-      آموزش کاربری: آموزش کاربری سیستم به صورت حضوری، مجازی و راهنمای آنلاین انجام می‌شود.</p>
+<p>همچنین به اطلاع می‌رساند طبق برنامه‌ریزی‌های انجام شده، در صورتی که تا تاریخ ۱۵/۰۳/۱۳۹۰ نسبت به عقد قرارداد اقدام گردد امکان نصب، راه‌اندازی و جایگزین نمودن سیستم مدیریت جامع آموزش سینا با سیستم فعلی تا ابتدای شهریور وجود دارد و بهره‌برداری از سیستم، برای ترم آینده تحصیلی امکان‌پذیر خواهد بود.</p>
+<p>در صورت تمایل دوستان، باعث افتخار موسسه مرآت اندیشه خواهد بود که در قالب جلسات حضوری و تماس‌های تکمیلی، معرفی کامل‌تری از محصولات و خدمات خود ارائه دهد.</p>
+<!-- PHP 5.x -->]]></content:encoded>
+			<wfw:commentRss>http://www.meraat.co.ir/latest-news/%d8%aa%d9%88%d8%b6%db%8c%d8%ad%d8%a7%d8%aa%db%8c-%d8%af%d8%b1-%d8%a7%d8%b1%d8%aa%d8%a8%d8%a7%d8%b7-%d8%a8%d8%a7-%d8%b3%db%8c%d8%b3%d8%aa%d9%85-%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d9%be%d9%88%d8%af%d9%85/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>فراخوان مقاله برای منابع بازآموزشی</title>
+		<link>http://www.meraat.co.ir/latest-news/%d9%81%d8%b1%d8%a7%d8%ae%d9%88%d8%a7%d9%86-%d9%85%d9%82%d8%a7%d9%84%d9%87-%d8%a8%d8%b1%d8%a7%db%8c-%d9%85%d9%86%d8%a7%d8%a8%d8%b9-%d8%a8%d8%a7%d8%b2%d8%a2%d9%85%d9%88%d8%b2%d8%b4%db%8c</link>
+		<comments>http://www.meraat.co.ir/latest-news/%d9%81%d8%b1%d8%a7%d8%ae%d9%88%d8%a7%d9%86-%d9%85%d9%82%d8%a7%d9%84%d9%87-%d8%a8%d8%b1%d8%a7%db%8c-%d9%85%d9%86%d8%a7%d8%a8%d8%b9-%d8%a8%d8%a7%d8%b2%d8%a2%d9%85%d9%88%d8%b2%d8%b4%db%8c#comments</comments>
+		<pubDate>Wed, 16 Mar 2011 09:02:59 +0000</pubDate>
+		<dc:creator>ایمان</dc:creator>
+				<category><![CDATA[آخرین اخبار]]></category>
+
+		<guid isPermaLink="false">http://www.meraat.co.ir/?p=1119</guid>
+		<description><![CDATA[پتانسیل آموزشی منابع بازآموزشی منابع باز آموزشی یا (Open Education Resources)  &#8216;فراهم نمودن منابع آموزشی الکترونیکی برای مشاوره، استفاده و به‌کارگیری توسط جامعه برای مقاصد غیر تجاری&#8217;  تعریف می‌شود. این منابع معمولا به صورت آزاد بر روی  وب سایت‌ها و یا اینترنت&#8230; (یونسکو ، ۲۰۰۲) موجودند. ایده فراهم آوردن امکان دسترسی رایگان به دانش، توسط ...]]></description>
+			<content:encoded><![CDATA[<p>پتانسیل آموزشی منابع بازآموزشی</p>
+<p>منابع باز آموزشی یا (Open Education Resources)  &#8216;فراهم نمودن منابع آموزشی الکترونیکی برای مشاوره، استفاده و به‌کارگیری توسط جامعه برای مقاصد غیر تجاری&#8217;  تعریف می‌شود. این منابع معمولا به صورت آزاد بر روی  وب سایت‌ها و یا اینترنت&#8230; (یونسکو ، ۲۰۰۲) موجودند.</p>
+<p>ایده فراهم آوردن امکان دسترسی رایگان به دانش، توسط نهادهای سطح بالایی مانند موسسه تکنولوژی ماساچوست (ام آی تی) با نرم‌افزار OpenCourseWare و دانشگاه آزاد انگلستان با OpenLearn به‌کارگرفته شده است. این طرح‌ها مورد توجه فوق العاده ای در موسسات آموزش عالی شده اند و الهام بخش حرکت‌های دیگر در OER بوده‌اند.</p>
+<p>همراه با افزایش منابع باز آموزشی تحقیقات در زمینه توسعه ،به‌کارگیری و استفاده از این منابع گسترش یافته است. با این حال ، این تحقیقات بیشتر تا کنون در مورد مسائل فنی، حقوقی، و سیاسی بدون اعتنا به مسئله اصلی یعنی آموزش و پرورش متمرکز شده است.<br />
+به عنوان مثال، معنای عبارت &#8216;آموزشی&#8217; در منابع باز آموزشی همچنان مبهم است : «آیا به این معنی است که این مطالب فقط باید شامل مطالب مورد استفاده درسیلابس رسمی آموزشی باشد؟&#8217; (Hylen ، ۲۰۰۶). علاوه بر آن ، کار بر روی مفهوم «باز بودن» در رابطه با تربیت نیز مورد نیاز است. کارهای مهمی دراین زمینه در سمینار OLCOS 2012 انجام شده، اما این مطرح شده است که ما باید علاوه بر منابع باز آموزشی به سمت تمرینات باز آموزشی (Open Educational Practices) نیز حرکت کنیم؛ یعنی، فراهم آوردن امکان دسترسی به محتوای رایگان فقط نیمی از داستان می‌باشد.<br />
+با استفاده از این دو موضوع خاص، در مجله آموزش الکترونیکی و رسانه های دیجیتال (<a href="www.wwwords.co.uk/ELEA" target="_blank">www.wwwords.co.uk/ELEA</a>) ما در پی بررسی این موارد می‌باشیم. زمینه‌های تحقیق شامل:</p>
+<ul>
+<li>کار مفهومی در زمینه تدریس و ادگیری با OER</li>
+<li>کدام ساختار آموزشی و یا تئوری در OER مطرح هستند؟</li>
+<li>با نگاهی به گذشته تاریخ آموزش و پرورش، تجربیات قابل استفاده در OER چیست؟</li>
+<li>گزارش کارها و  تجربیات موفق در استفاده از OER با استفاده از مطالعات موردی و یا بهترین تمرینات</li>
+</ul>
+<p><a href="http://rikowski.wordpress.com/2011/03/12/exploring-the-educational-potential-of-open-educational-resources/" target="_blank">منبع خبر</a></p>
+<!-- PHP 5.x -->]]></content:encoded>
+			<wfw:commentRss>http://www.meraat.co.ir/latest-news/%d9%81%d8%b1%d8%a7%d8%ae%d9%88%d8%a7%d9%86-%d9%85%d9%82%d8%a7%d9%84%d9%87-%d8%a8%d8%b1%d8%a7%db%8c-%d9%85%d9%86%d8%a7%d8%a8%d8%b9-%d8%a8%d8%a7%d8%b2%d8%a2%d9%85%d9%88%d8%b2%d8%b4%db%8c/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>فراخوان مقاله برای ژورنال PFIE با موضوع : دانشگاه ها به عنوان موسسات دانش محور</title>
+		<link>http://www.meraat.co.ir/latest-news/%d9%81%d8%b1%d8%a7%d8%ae%d9%88%d8%a7%d9%86-%d9%85%d9%82%d8%a7%d9%84%d9%87-%d8%a8%d8%b1%d8%a7%db%8c-%da%98%d9%88%d8%b1%d9%86%d8%a7%d9%84-pfie-%d8%a8%d8%a7-%d9%85%d9%88%d8%b6%d9%88%d8%b9-%d8%af%d8%a7</link>
+		<comments>http://www.meraat.co.ir/latest-news/%d9%81%d8%b1%d8%a7%d8%ae%d9%88%d8%a7%d9%86-%d9%85%d9%82%d8%a7%d9%84%d9%87-%d8%a8%d8%b1%d8%a7%db%8c-%da%98%d9%88%d8%b1%d9%86%d8%a7%d9%84-pfie-%d8%a8%d8%a7-%d9%85%d9%88%d8%b6%d9%88%d8%b9-%d8%af%d8%a7#comments</comments>
+		<pubDate>Sat, 05 Feb 2011 11:49:46 +0000</pubDate>
+		<dc:creator>ایمان</dc:creator>
+				<category><![CDATA[آخرین اخبار]]></category>
+
+		<guid isPermaLink="false">http://www.meraat.co.ir/?p=523</guid>
+		<description><![CDATA[فراخوان مقاله برای ژورنال PFIE با موضوع : دانشگاه ها به عنوان موسسات دانش محور که تا تاریخ  ۱۵ ژوئن ۲۰۱۱ فرصت داده شده است. این ژورنال که بر اساس دست یافته های سمینار communia2010 منتشر می شود &#8230; لینک متن : http://www.communia-project.eu/content/call-papers-pfie-special-issue-universities-knowledge-institutions-networked-age]]></description>
+			<content:encoded><![CDATA[<p>فراخوان مقاله برای ژورنال PFIE با موضوع : دانشگاه ها به عنوان موسسات دانش محور که تا تاریخ  ۱۵ ژوئن ۲۰۱۱ فرصت داده شده است. این ژورنال که بر اساس دست یافته های سمینار communia2010 منتشر می شود &#8230;</p>
+<p>لینک متن :</p>
+<p><a href="http://www.communia-project.eu/content/call-papers-pfie-special-issue-universities-knowledge-institutions-networked-age">http://www.communia-project.eu/content/call-papers-pfie-special-issue-universities-knowledge-institutions-networked-age</a></p>
+<!-- PHP 5.x -->]]></content:encoded>
+			<wfw:commentRss>http://www.meraat.co.ir/latest-news/%d9%81%d8%b1%d8%a7%d8%ae%d9%88%d8%a7%d9%86-%d9%85%d9%82%d8%a7%d9%84%d9%87-%d8%a8%d8%b1%d8%a7%db%8c-%da%98%d9%88%d8%b1%d9%86%d8%a7%d9%84-pfie-%d8%a8%d8%a7-%d9%85%d9%88%d8%b6%d9%88%d8%b9-%d8%af%d8%a7/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>نسخه ۱٫۲ سیستم آموزش دانشگاهی</title>
+		<link>http://www.meraat.co.ir/uncategorized/%d9%86%d8%b3%d8%ae%d9%87-1-2-%d8%b3%db%8c%d8%b3%d8%aa%d9%85-%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%af%d8%a7%d9%86%d8%b4%da%af%d8%a7%d9%87%db%8c</link>
+		<comments>http://www.meraat.co.ir/uncategorized/%d9%86%d8%b3%d8%ae%d9%87-1-2-%d8%b3%db%8c%d8%b3%d8%aa%d9%85-%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%af%d8%a7%d9%86%d8%b4%da%af%d8%a7%d9%87%db%8c#comments</comments>
+		<pubDate>Fri, 31 Dec 2010 16:38:19 +0000</pubDate>
+		<dc:creator>ایمان</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://www.meraat.co.ir/?p=548</guid>
+		<description><![CDATA[نسخه ۱٫۲ سیستم آموزش دانشگاهی سینا نهایی شد. این نسخه با انتقال امکانات زمان بندی کلاسی از سیستم دوره های آزاد سینا به دانشگاهی، امکان برنامه ریزی دقیق برای هر گروه درسی، برای تعریف کلاسهای چند استاده، تفکیک جلسات طول ترم به اساتید، برنامه زمانی و مکانی متفاوت را فراهم می کند. با این امکانات، ...]]></description>
+			<content:encoded><![CDATA[<p>نسخه ۱٫۲ سیستم آموزش دانشگاهی سینا نهایی شد. این نسخه با انتقال امکانات زمان بندی کلاسی از سیستم دوره های آزاد سینا به دانشگاهی، امکان برنامه ریزی دقیق برای هر گروه درسی، برای تعریف کلاسهای چند استاده، تفکیک جلسات طول ترم به اساتید، برنامه زمانی و مکانی متفاوت را فراهم می کند. با این امکانات، برنامه ریزی دانشگاه ها دقیق تر شده و امکان تولید گزارش حق التدریس دقیق برای اساتید بر اساس ساعات واقعی کلاس را فراهم می کند.  همچینین از مشکل تعریف اساتید مجازی با نام های ترکیبی، برای توصیف کلاسهای چند استاده جلوگیری میکند.همچنین تعداد زیادی از باگهای گزارش شده نیز در این نسخه برطرف شده است.</p>
+<p>گزارش تحویل این نسخه را در زیر ببینید یا از <a href="http://issues.meraat.co.ir/secure/ReleaseNote.jspa?projectId=10001&amp;version=10090">جیرای مرآت </a>بخوانید.</p>
+<h2>باگ</h2>
+<ul>
+<li>[<a href="http://issues.meraat.co.ir/browse/EDUCATION-221">EDUCATION-221</a>] &#8211;         جای دکمه ها در صفحه ویرایش الگوی چاپ جابه جاست</li>
+<li>[<a href="http://issues.meraat.co.ir/browse/EDUCATION-427">EDUCATION-427</a>] &#8211;         حذف تب ارائه از ویرایش گروه درسی</li>
+<li>[<a href="http://issues.meraat.co.ir/browse/EDUCATION-428">EDUCATION-428</a>] &#8211;         عدم نمایش تب زمانبندی در برخی موارد</li>
+<li>[<a href="http://issues.meraat.co.ir/browse/EDUCATION-429">EDUCATION-429</a>] &#8211;         استاد اصلی با استاد تعریف شده در زمان بندی متفاوت است</li>
+<li>[<a href="http://issues.meraat.co.ir/browse/EDUCATION-430">EDUCATION-430</a>] &#8211;         حذف یا کاهش اهمیت زمان آغاز و زمان پایان گروه درسی</li>
+<li>[<a href="http://issues.meraat.co.ir/browse/EDUCATION-431">EDUCATION-431</a>] &#8211;         مشکل در تعریف هفته ها برای کلاس</li>
+<li>[<a href="http://issues.meraat.co.ir/browse/EDUCATION-432">EDUCATION-432</a>] &#8211;         خطای NPE در ویرایش زمانبندی گروه، محاسبه تداخلها</li>
+<li>[<a href="http://issues.meraat.co.ir/browse/EDUCATION-433">EDUCATION-433</a>] &#8211;         خطای نمایش جلسات بعد از ایجاد زمانبندی</li>
+<li>[<a href="http://issues.meraat.co.ir/browse/EDUCATION-434">EDUCATION-434</a>] &#8211;         مشکل ساخت به ازای هر جلسه دو جلسه</li>
+</ul>
+<h2>بهینه سازی</h2>
+<ul>
+<li>[<a href="http://issues.meraat.co.ir/browse/EDUCATION-330">EDUCATION-330</a>] &#8211;         اصلاح ظاهر صفحه اطلاعات دانشگاه در تب دانشگاه</li>
+<li>[<a href="http://issues.meraat.co.ir/browse/EDUCATION-411">EDUCATION-411</a>] &#8211;         افزودن فیلدهای معادل لاتین برای پرینت های انگلیسی</li>
+</ul>
+<h2>داستان</h2>
+<ul>
+<li>[<a href="http://issues.meraat.co.ir/browse/EDUCATION-409">EDUCATION-409</a>] &#8211;         امکان حضور و غیاب کلاسی برای جلسات مختلف</li>
+<li>[<a href="http://issues.meraat.co.ir/browse/EDUCATION-412">EDUCATION-412</a>] &#8211;         امکان تعیین استاد و مکان برای جلسات مختلف گروه درسی</li>
+<li>[<a href="http://issues.meraat.co.ir/browse/EDUCATION-413">EDUCATION-413</a>] &#8211;         امکان زمانبندی گروه درسی به شکل های مختلف زوج و فرد ، هفتگی و &#8230;</li>
+<li>[<a href="http://issues.meraat.co.ir/browse/EDUCATION-414">EDUCATION-414</a>] &#8211;         انتقال الگوهای زمانبندی به ماجول سطح بالاتر به نحوی که دوره های آزاد و دانشگاهی ، هر دو از آن استفاده کنند</li>
+<li>[<a href="http://issues.meraat.co.ir/browse/EDUCATION-416">EDUCATION-416</a>] &#8211;         به درس قابل تمدید بودن یا نبودن اضافه شود</li>
+<li>[<a href="http://issues.meraat.co.ir/browse/EDUCATION-417">EDUCATION-417</a>] &#8211;         افزودن امکان تعیین زمان های ارائه کلاس ، بر اساس الگوهای زمانبندی</li>
+<li>[<a href="http://issues.meraat.co.ir/browse/EDUCATION-420">EDUCATION-420</a>] &#8211;         اضافه کردن تب زمان بندی به صفحه ویرایش و ایجاد گروه درسی</li>
+<li>[<a href="http://issues.meraat.co.ir/browse/EDUCATION-421">EDUCATION-421</a>] &#8211;         اضافه کردن صفحه &#8220;جلسات کلاس&#8221; به صفحه اطلاعات گروه درسی</li>
+<li>[<a href="http://issues.meraat.co.ir/browse/EDUCATION-424">EDUCATION-424</a>] &#8211;         اصلاح نمایش جلسات کلاس به صورتی که هفته و جلسات نمایش داده شوند</li>
+</ul>
+<h2>وظیفه مندی</h2>
+<ul>
+<li>[<a href="http://issues.meraat.co.ir/browse/EDUCATION-435">EDUCATION-435</a>] &#8211;         نمایش پیغام تداخل کلاس ها در یک زمان</li>
+</ul>
+<!-- PHP 5.x -->]]></content:encoded>
+			<wfw:commentRss>http://www.meraat.co.ir/uncategorized/%d9%86%d8%b3%d8%ae%d9%87-1-2-%d8%b3%db%8c%d8%b3%d8%aa%d9%85-%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%af%d8%a7%d9%86%d8%b4%da%af%d8%a7%d9%87%db%8c/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

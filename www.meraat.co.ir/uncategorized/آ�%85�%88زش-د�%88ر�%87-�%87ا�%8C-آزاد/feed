@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: آموزش دوره های آزاد</title>
+	<atom:link href="http://www.meraat.co.ir/uncategorized/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%af%d9%88%d8%b1%d9%87-%d9%87%d8%a7%db%8c-%d8%a2%d8%b2%d8%a7%d8%af/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.meraat.co.ir/uncategorized/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%af%d9%88%d8%b1%d9%87-%d9%87%d8%a7%db%8c-%d8%a2%d8%b2%d8%a7%d8%af</link>
+	<description>موسسه آموزشی و پژوهشی مرآت اندیشه، سیستم آموزش دانشگاهی، سیستم دوره های آزاد، سیستم آموزشگاهی، سیستم آموزش ضمن خدمت، آموزش الکترونیکی و کلاس افزار</description>
+	<lastBuildDate></lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.0.3</generator>
+</channel>
+</rss>
